@@ -10,3 +10,18 @@
     margin-top: -5%;
     word-spacing: 1px;
 }
+footer {
+    background-color: rgb(34, 19, 200);
+    color: white;
+    padding: 15px;
+
+  }
+  .fotDiv{
+    width:31%;
+    float:right;
+    border-right: 2px solid white;
+}
+.container{
+    font: size 10px;
+    margin-top: 1%;
+}
